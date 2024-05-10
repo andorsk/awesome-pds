@@ -34,8 +34,16 @@
 
 ## Authorization Models
 
+- [ABAC](https://en.wikipedia.org/wiki/Attribute-based_access_control) : ABAC uses policies that combine attributes of the user, the resource, and the environment to make decisions. This allows for fine-grained control and can dynamically adjust permissions based on any attribute of the user or resource.
+- [ACL](https://en.wikipedia.org/wiki/Access-control_list) : ACLs are used to list who can access a particular resource and what operations they can perform on it. Each entry in an ACL specifies a subject and an operation (e.g., read, write).
+- [Capability Based Security](https://en.wikipedia.org/wiki/Capability-based_security) : This model uses tokens (capabilities) that provide the holder with the authority to access a resource. Capabilities must be granted explicitly and can be passed around between users.
+- [DAC](https://en.wikipedia.org/wiki/Discretionary_access_control) : This model allows the owner of the data to decide who can access it. DAC is often used in file systems where users can set permissions on their own files and directories. 
+- [GBAC](https://en.wikipedia.org/wiki/Graph-based_access_control) :  A declarative way to define access rights, task assignments, recipients and content in information systems. Access rights are granted to objects like files or documents, but also business objects such as an account. GBAC can also be used for the assignment of agents to tasks in workflow environments
 - [GNAP](https://oauth.net/gnap/) : GNAP (Grant Negotiation and Authorization Protocol) is an in-progress effort to develop a next-generation authorization protocol. 
-- [OpenID](https://openid.net/) : OpenID Connect is an interoperable authentication protocol based on the OAuth 2.0 framework of specifications (IETF RFC 6749 and 6750).
+- [JWT](https://jwt.io/) : WTs are a compact, URL-safe means of representing claims to be transferred between two parties. While not an authorization protocol itself, JWT is often used in conjunction with OAuth 2.0 and OIDC for secure token issuance.
+- [oAuth](https://oauth.net/2/) : Although typically used for API authorization, OAuth can be adapted for personal data stores to allow third-party applications secure delegated access without revealing credentials.
+- [OIDC](https://openid.net/developers/how-connect-works/) : OpenID Connect (OIDC) is an identity authentication protocol that is an extension of open authorization (OAuth) 2.0 to standardize the process for authenticating and authorizing users when they sign in to access digital services.
+- [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) : In this model, permissions are assigned to roles, and users are assigned to these roles. This means that a user's access is determined by the roles they have, simplifying the management of permissions as users or their roles change
 
 ## Storage
 
