@@ -48,6 +48,7 @@
 ## Storage
 
 - [IPFS](https://ipfs.tech/) : The InterPlanetary File System (IPFS) is a set of composable, peer-to-peer protocols for addressing, routing, and transferring content-addressed data in a decentralized file system.
+- [GUN](https://github.com/amark/gun) :  An open source cybersecurity protocol for syncing decentralized graph data.
 
 ## Contribute
 
