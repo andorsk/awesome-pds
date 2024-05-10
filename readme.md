@@ -13,7 +13,10 @@
 - [Encrypted Data
   Vaults](https://digitalbazaar.github.io/encrypted-data-vaults/) : A
   specification that describes a privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider
-- [MyDex](The MyDex Personal Data Store is a secure data vault residing in the cloud and hosted by MyDex Community Interest Company. An individual’s data is encrypted at rest using the individual’s key. MyDex does not have access to any key for decryption.) : 
+- [MyDex](https://mydex.org/) : The MyDex Personal Data Store is a secure data vault residing in the
+  cloud and hosted by MyDex Community Interest Company. An individual’s data is
+  encrypted at rest using the individual’s key. MyDex does not have access to
+  any key for decryption.  
 - [The Hub of All Things]() : 
 - [Solid Pods](https://solidproject.org/) : Solid is a specification that lets
   individuals and groups store their data securely in decentralized data stores
