@@ -27,8 +27,15 @@
 
 ## Data Formats
 
-- [IPLD](https://ipld.io/) :  Data model for content addressable web. It allows us to treat all hash-linked data structures as subsets of a unified information space, unifying all data models that link data with hashes as instances of IPLD.
+
+- [Apache Avro](https://avro.apache.org/) : Data serialization system that provides rich data structures and a compact, fast binary data format.
+- [CBOR][https://cbor.io/] : he Concise Binary Object Representation (CBOR) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
 - [DID Documents](https://www.w3.org/TR/did-core/) : A set of data describing the DID subject, including mechanisms, such as cryptographic public keys, that the DID subject or a DID delegate can use to authenticate itself and prove its association with the DID.
+- [IPLD](https://ipld.io/) :  Data model for content addressable web. It allows us to treat all hash-linked data structures as subsets of a unified information space, unifying all data models that link data with hashes as instances of IPLD.
+- [MessagePack](https://msgpack.org/index.html) : : It’s a binary serialization format that's more compact than JSON. Like JSON, it supports a wide range of data types and structures, and it's useful for applications where bandwidth is a concern.
+- [Cap’n Prot](https://capnproto.org/) : Fast data interchange format and capability-based RPC system
+- [Protobuf](https://protobuf.dev/) : Protocol Buffers are language-neutral, platform-neutral extensible mechanisms for serializing structured data.
+- [JSON-LD](https://json-ld.org/) : JSON-LD is a lightweight Linked Data format. It is easy for humans to read and write. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale.
 - [Verifiable Credentials Model](https://www.w3.org/TR/vc-data-model/) : Specification describing a claim,
   credential, and presentation data model
 
@@ -50,6 +57,10 @@
 - [IPFS](https://ipfs.tech/) : The InterPlanetary File System (IPFS) is a set of composable, peer-to-peer protocols for addressing, routing, and transferring content-addressed data in a decentralized file system.
 - [GUN](https://github.com/amark/gun) :  An open source cybersecurity protocol for syncing decentralized graph data.
 
+## SDKs 
+
+
+- [Web5](https://github.com/TBD54566975/web5-js) : Implements Decentralized Web Nodes
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
