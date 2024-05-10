@@ -29,7 +29,7 @@
 
 
 - [Apache Avro](https://avro.apache.org/) : Data serialization system that provides rich data structures and a compact, fast binary data format.
-- [CBOR][https://cbor.io/] : he Concise Binary Object Representation (CBOR) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
+- [CBOR](https://cbor.io/) : he Concise Binary Object Representation (CBOR) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
 - [DID Documents](https://www.w3.org/TR/did-core/) : A set of data describing the DID subject, including mechanisms, such as cryptographic public keys, that the DID subject or a DID delegate can use to authenticate itself and prove its association with the DID.
 - [IPLD](https://ipld.io/) :  Data model for content addressable web. It allows us to treat all hash-linked data structures as subsets of a unified information space, unifying all data models that link data with hashes as instances of IPLD.
 - [MessagePack](https://msgpack.org/index.html) : : It’s a binary serialization format that's more compact than JSON. Like JSON, it supports a wide range of data types and structures, and it's useful for applications where bandwidth is a concern.
