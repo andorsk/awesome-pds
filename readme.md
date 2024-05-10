@@ -17,7 +17,7 @@
   cloud and hosted by MyDex Community Interest Company. An individual’s data is
   encrypted at rest using the individual’s key. MyDex does not have access to
   any key for decryption.  
-- [The Hub of All Things]() : 
+- [The Hub of All Things](https://www.hubofallthings.com/) : The HAT is a decentralised, person-owned and controlled “microserver” for personal data storage, processing, AI and exchange.
 - [Solid Pods](https://solidproject.org/) : Solid is a specification that lets
   individuals and groups store their data securely in decentralized data stores
   called Pods. Pods are like secure web servers for data. HTTP Based.
@@ -40,7 +40,7 @@
 - [DAC](https://en.wikipedia.org/wiki/Discretionary_access_control) : This model allows the owner of the data to decide who can access it. DAC is often used in file systems where users can set permissions on their own files and directories. 
 - [GBAC](https://en.wikipedia.org/wiki/Graph-based_access_control) :  A declarative way to define access rights, task assignments, recipients and content in information systems. Access rights are granted to objects like files or documents, but also business objects such as an account. GBAC can also be used for the assignment of agents to tasks in workflow environments
 - [GNAP](https://oauth.net/gnap/) : GNAP (Grant Negotiation and Authorization Protocol) is an in-progress effort to develop a next-generation authorization protocol. 
-- [JWT](https://jwt.io/) : WTs are a compact, URL-safe means of representing claims to be transferred between two parties. While not an authorization protocol itself, JWT is often used in conjunction with OAuth 2.0 and OIDC for secure token issuance.
+- [JWT](https://jwt.io/) : JWTs are a compact, URL-safe means of representing claims to be transferred between two parties. While not an authorization protocol itself, JWT is often used in conjunction with OAuth 2.0 and OIDC for secure token issuance.
 - [oAuth](https://oauth.net/2/) : Although typically used for API authorization, OAuth can be adapted for personal data stores to allow third-party applications secure delegated access without revealing credentials.
 - [OIDC](https://openid.net/developers/how-connect-works/) : OpenID Connect (OIDC) is an identity authentication protocol that is an extension of open authorization (OAuth) 2.0 to standardize the process for authenticating and authorizing users when they sign in to access digital services.
 - [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) : In this model, permissions are assigned to roles, and users are assigned to these roles. This means that a user's access is determined by the roles they have, simplifying the management of permissions as users or their roles change
