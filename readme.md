@@ -24,9 +24,10 @@
 - [UBOS]( https://ubos.net/docs/architecture/) : Core to UBOS is UBOS Gears, which automates many of the otherwise complex and laborious tasks of systems administrators administering peer computing applicationsa.
 - [Verida](https://www.verida.network/) :  Verida is a layer zero DePIN ecosystem that combines the performance and privacy of traditional databases with user controlled keys for complex DApps
 - [WebNative Filesystem](https://github.com/wnfs-wg) : The Web Native File System (WNFS) is a distributed file system. It is versioned, logged, programmable, has strong-yet-flexible security, and is fully controlled by the end user. Service providers can validate writes without reading the contents of the file system, and minimal metadata is leaked.
+- [LWS Spec](https://w3c.github.io/lws-protocol/spec/) : The Linked Web Storage Protocol specification aims to provide applications with secure and permissioned access to externally stored data in an interoperable way.
+
 
 ## Data Formats
-
 
 - [Apache Avro](https://avro.apache.org/) : Data serialization system that provides rich data structures and a compact, fast binary data format.
 - [CBOR](https://cbor.io/) : he Concise Binary Object Representation (CBOR) is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
